@@ -1,6 +1,6 @@
 # Simple Contrastive Graph Clustering
 
-
+An official source code for paper Simple Contrastive Graph Clustering, accepted by IEEE T-NNLS 2023. Any communications or issues are welcomed. Please contact yueliu19990731@163.com. If you find this repository useful to your research or work, it is really appreciate to star this repository. ❤️
 
 ### Quick Start
 

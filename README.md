@@ -12,3 +12,17 @@ An official source code for paper Simple Contrastive Graph Clustering, accepted 
 python train.py
 ```
 
+## Citation
+If you find this repository helpful, please cite our papers.
+
+```
+@article{liuyue_SCGC,
+  title={Simple contrastive graph clustering},
+  author={Liu, Yue and Yang, Xihong and Zhou, Sihang and Liu, Xinwang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
